@@ -9,6 +9,9 @@
 - **Team challenge**: team of 4
 - **Deadline**: 22/01/2021 15:00
 
+## Final Result
+You can find the website [here](http://breakingbadge.infinityfreeapp.com/)
+
 ## What is this project about :grey_question:
 
 This is a web development exercise carried out with the BECODE training to learn various aspects and coding techniques. There will be frontend and backend here. We will use HTML, CSS, PHP and some javascript.
@@ -54,8 +57,7 @@ Based on the following mockup :
 Based on an organisation with a Trello and sketch : 
 [@TRELLO](https://trello.com/b/m4MUdxza/breaking-badge)
  
-## Final Result
-You can find the website [here](http://breakingbadge.infinityfreeapp.com/)
+
 
 ## Auteurs
 * **Jean** _alias_ [@JeanFabry](https://github.com/JeanFabry)
